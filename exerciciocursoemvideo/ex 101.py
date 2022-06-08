@@ -12,3 +12,4 @@ def voto(ano):
 
 nascimento = int(input('Em que ano você nasceu? '))
 voto(nascimento)
+print('teste')
